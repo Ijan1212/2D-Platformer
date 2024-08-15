@@ -1,3 +1,5 @@
 # 2D Platformer
 
-Ovo je završni rad.
+Ovo je(bio) završni rad.
+
+game project
